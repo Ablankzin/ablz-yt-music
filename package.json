@@ -1,0 +1,12 @@
+{
+  "name": "ablz-yt-music",
+  "version": "0.0.1",
+  "description": "YT Music player using electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^3.0.3"
+  }
+}
