@@ -1,3 +1,3 @@
 # Ablz YT Music
 
-YT Music electron appblz
+YT Music electron app
